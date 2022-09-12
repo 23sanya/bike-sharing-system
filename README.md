@@ -24,9 +24,9 @@ Identified and removed redundant and unnecessary columns from the ‘day’ data
 ## Conclusions
 -The top 3 features contributing significantly towards explaining the demand of the shared bikes
 
-Temperature
-Summer
-2019
+> Temperature
+> Summer
+> 2019
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
